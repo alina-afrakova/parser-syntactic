@@ -1,0 +1,11 @@
+---------------------------------------------------------
+СЛОВАРЬ:
+Nouns: man, men, woman, women, child, children, book, books, candle, candles, owl, owls, table, tables, room, rooms.
+Pronouns: i, me, my, you, your, he, him, his, she, her, they, them, their, this, that, these, those.
+Articles: a, an, the.
+Verbs: am, is, are, was, were, like, likes, liked, look, looks, looked, read, reads, hold, holds, held, play, playes, played.
+Adjectives: nice, cozy, huge, pretty, amazing, attractive, blue, light, dark.
+Adverbs: firmly, thoughtfully, slowly, carefully, always, never, definitely, very, really, incredibly, extremely.
+Numerals: one, two, three, twenty, thirty.
+Prepositions: in, on, at, with, without.
+---------------------------------------------------------

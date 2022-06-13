@@ -1,0 +1,54 @@
+?- print_example.
+
+Предложение: 
+this extremely pretty woman always reads an incredibly huge blue book thoughtfully in her dark room with thirty three candles.
+
+Синтаксический разбор предложения:
+st(ng(pn(this),adv(extremely),dg(adj(pretty)),n(woman)),vg(adv(always),v(reads),ng(a(an),adv(incredibly),dg(adj(huge),dg(adj(blue))),n(book)),adv(thoughtfully),pg(p(in),ng(pn(her),dg(adj(dark)),n(room)),pg(p(with),ng(nmg(nm(thirty),nm(three)),n(candles))))))
+
+sentence(
+   noun_group(
+      pronoun(this)
+      adverb(extremely)
+      definition_group(
+         adjective(pretty)
+      )
+      noun(woman)
+   )
+   verb_group(
+      adverb(always)
+      verb(reads)
+      noun_group(
+         article(an)
+         adverb(incredibly)
+         definition_group(
+            adjective(huge)
+            definition_group(
+               adjective(blue)
+            )
+         )
+         noun(book)
+      )
+      adverb(thoughtfully)
+      preposition_group(
+         preposition(in)
+         noun_group(
+            pronoun(her)
+            definition_group(
+               adjective(dark)
+            )
+            noun(room)
+         )
+         preposition_group(
+            preposition(with)
+            noun_group(
+               numeral_group(
+                  numeral(thirty)
+                  numeral(three)
+               )
+               noun(candles)
+            )
+         )
+      )
+   )
+)
